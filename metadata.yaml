@@ -1,0 +1,31 @@
+_repo: FlatlandA-Romance-of-Many-Dimensions_45506
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45506-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Abbott, Edwin Abbott
+    aliases:
+    - Abbott, E. A. (Edwin Abbott)
+    - Abbott, Edwin A. (Edwin Abbott)
+    - A Square
+    birthdate: 1838
+    deathdate: 1926
+    gutenberg_agent_id: '64'
+    url: http://www.gutenberg.org/2009/agents/64
+    wikipedia: http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
+description: ''
+gutenberg_issued: '2014-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45506'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fourth dimension'
+- !lcc 'QA'
+title: 'Flatland: A Romance of Many Dimensions'
+url: http://www.gutenberg.org/ebooks/45506
