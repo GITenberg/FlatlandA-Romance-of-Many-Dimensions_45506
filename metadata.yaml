@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/64
     wikipedia: http://en.wikipedia.org/wiki/Edwin_Abbott_Abbott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45506#FlatlandA-Romance-of-Many-Dimensions
 gutenberg_issued: '2014-04-27'
 gutenberg_type: Text
 identifiers:
